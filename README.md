@@ -36,7 +36,9 @@ def circulate():
 
 
 ## Output:
-![output](./circulate%20n%20variable.png)
+![output](./circulate%20n%20variables.png)
+
+
 
 
 
